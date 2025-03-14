@@ -1,0 +1,75 @@
+## ASP.NET Core
+# Build results
+bin/
+obj/
+
+# User-specific files
+.vs/
+.vscode/
+.idea/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer directory
+_install/
+
+# User-specific files for Rider and other JetBrains IDEs
+.idea/
+
+# ASP.NET Core temporary files
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# VS for Mac
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer directory
+_install/
+
+# JetBrains Rider
+.idea/
+
+# Logs
+*.log
+
+# NPM packages
+node_modules/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# JetBrains Rider
+.idea/
+
+# User-specific files for VSCode
+.vscode/
+
+# Package files
+*.nupkg
+*.snupkg
+
+# Microsoft Azure Function App Settings
+local.settings.json
+
+# Environment files for Docker or Kestrel
+.env
+
+# Ignore other platform-specific build files
+.vsconfig
+
+# User-specific data and VS related files
+.vs/
