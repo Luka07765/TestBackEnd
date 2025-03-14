@@ -19,7 +19,7 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
-
+app.MapGet("/", () => "Welcome to the API!");
 app.MapControllers();
 
 app.Run();
